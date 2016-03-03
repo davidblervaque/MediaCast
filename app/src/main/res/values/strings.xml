@@ -1,9 +1,17 @@
 <resources>
     <string name="app_name">MediaCast</string>
+    <string name="db_name">mediacast.db</string>
     <string name="title_activity_navigation">NavigationActivity</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="prev_string">Previous</string>
+    <string name="next_string">Next</string>
+    <string name="play_string">Play</string>
+    <string name="pause_string">Pause</string>
+    <string name="play_item">Play music</string>
+    <string name="shuffle_item">Shuffle playlist</string>
 </resources>
